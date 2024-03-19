@@ -1,10 +1,10 @@
 {
-    "name": "fetch-http",
+    "name": "fetch-http-tools",
     "description": "Fetch URL contents",
     "version": "0.9.3",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/WangGeek/fetch-http.git"
+        "url": "git+https://github.com/WangGeek/fetch-http-tools.git"
     },
     "publishConfig": {
         "access": "public",
