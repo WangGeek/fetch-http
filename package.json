@@ -4,7 +4,7 @@
     "version": "0.9.3",
     "repository": {
         "type": "git",
-        "url": "https://github.com/WangGeek/fetch-http.git"
+        "url": "git+https://github.com/WangGeek/fetch-http.git"
     },
     "publishConfig": {
         "access": "public",
