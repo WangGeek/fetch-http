@@ -1,10 +1,10 @@
 {
-    "name": "fetch-pro",
+    "name": "fetch-http",
     "description": "Fetch URL contents",
     "version": "0.9.3",
     "repository": {
         "type": "git",
-        "url": "https://github.com/WangGeek/fetch-pro.git"
+        "url": "https://github.com/WangGeek/fetch-http.git"
     },
     "publishConfig": {
         "access": "public",
