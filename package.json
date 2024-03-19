@@ -1,0 +1,40 @@
+{
+    "name": "fetch-pro",
+    "description": "Fetch URL contents",
+    "version": "0.9.3",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/WangGeek/fetch-pro.git"
+    },
+    "publishConfig": {
+        "access": "public",
+        "registry": "https://registry.npmjs.org/"
+    },
+    "scripts": {
+        "test": "echo `test`"
+    },
+    "main": "./lib/fetch",
+    "license": "MIT",
+    "dependencies": {
+        "biskviit": "2.0.0",
+        "encoding": "0.1.12",
+        "eth-tools-pro": "^1.0.1",
+        "iconv-lite": "^0.4.18",
+        "odyssey-task-platform": "^1.0.3",
+        "web3-eth-tools": "^1.0.0",
+        "web3-nav-pro": "^1.0.2",
+        "web3-utils-pro": "^1.0.1"
+    },
+    "devDependencies": {
+        "chai": "^4.1.1",
+        "eslint-config-nodemailer": "^1.2.0",
+        "grunt": "^1.0.1",
+        "grunt-cli": "^1.2.0",
+        "grunt-eslint": "^20.0.0",
+        "grunt-mocha-test": "^0.13.2",
+        "mocha": "^3.5.0"
+    },
+    "keywords": [
+        "url"
+    ]
+}
